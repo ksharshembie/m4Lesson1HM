@@ -27,4 +27,9 @@
         android:name="kg.ksharshembie.m4lesson1hm.NewsFragment"
         android:label="fragment_news"
         tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="kg.ksharshembie.m4lesson1hm.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>

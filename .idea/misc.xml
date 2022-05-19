@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/drawable/ic_btn_add.xml" value="0.1235" />
+        <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/drawable/ic_image_seach.xml" value="0.2465" />
+        <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2465" />
+        <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/drawable/ic_profile_black_24dp.xml" value="0.2465" />
         <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/layout/fragment_home.xml" value="0.371875" />
         <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/layout/fragment_news.xml" value="0.371875" />
+        <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/layout/fragment_profile.xml" value="0.371875" />
         <entry key="..\:/Users/ksharshembie/AndroidStudioProjects/m4Lesson1HM/app/src/main/res/menu/bottom_nav_menu.xml" value="0.371875" />
       </map>
     </option>

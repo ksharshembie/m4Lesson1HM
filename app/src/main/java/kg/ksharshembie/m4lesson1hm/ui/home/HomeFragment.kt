@@ -42,6 +42,13 @@ class HomeFragment : Fragment() {
         binding.fab.setOnClickListener {
             findNavController().navigate(R.id.newsFragment)
         }
+        parentFragmentManager.setFragmentResultListener(
+            "rk_news",
+            viewLifecycleOwner
+        ) { key, bundle ->
+            val text = bundle.getString("text")
+            binding.textHome.text = text.toString()
+        }
     }
 
     override fun onDestroyView() {
